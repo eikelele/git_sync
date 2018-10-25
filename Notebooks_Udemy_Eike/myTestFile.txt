@@ -1,3 +1,0 @@
-Hello world, this is a testTextFile
-with second line
-and third line
